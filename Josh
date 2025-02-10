@@ -1,3 +1,42 @@
+A Web-Based Project Alert System1. ABSTRACT
+
+Over the years, human endeavors had experienced series of growth and development attributed to information technology. The technological education can further be advanced by engaging this information technology in monitoring the final year student project. It is a common phenomenon in higher institutions of learning that final year student’s projects are often managed and present the same to their supervisors without the knowledge of the same. This had caused so many duplications of projects words for words, year in, year out and laziness on the part of the students replicating work without originality. This trend contributed to the poor technological skills of graduates produced in many institutions today which invariably also impact on the society at large. In this research, a web based student project duplication detection application software was developed to monitor projects that had been implemented before to enable supervisors detect repetitive projects and guide the student right to conduct original and unique projects that will advance the technological skill of the student as well as improve technological advancement of our great nation.
+3.2 DISADVANTAGES
+
+
+
+•	Very difficult to find duplicate 
+
+•	Time consuming process
+
+•	Accuracy Less
+
+•	No effective software to detect duplicate topic.
+.4 ADVANTAGES
+
+
+
+•	Main aim to avoid project duplication
+
+•	Improve education system quality
+
+•	User friendly 
+
+•	More accurate result.
+7. MODULES 
+
+1. Authentication process
+
+2. Student enrollment
+
+3. Synopsis uploads process
+
+4. Duplication detection process 
+
+5. Sms channel integration:
+
+7. Sms based intimation
+
 MODULES DESCRIPTION
 
 1. Authentication process

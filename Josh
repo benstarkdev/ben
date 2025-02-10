@@ -1,0 +1,30 @@
+MODULES DESCRIPTION
+
+1. Authentication process
+
+The first module is the authentication module. Using this module the admin and student, get login into the application. Based on the role, the mobile application page will be navigated.
+
+2. Student enrollment
+
+   	Using this module student  can register in the registration form he has to fill with personal details such as name, address, mobile number mail id and username, first name and last name, class etc. This will maintain in a separate table .student user can log on this web application effective manner.
+
+3. Synopsis uploads process
+
+	This module fully based on student control. After successful authentication they can able to post title and abstract along with department details. These all the details maintain separate table. Once student upload document means this document goes to admin for verification purpose.	
+
+4. Duplication detection process 
+
+  Admin can view student upload synopsis after that admin can check duplication with the help from previous data base information. This application pattern matching technique will compare upload content with database content and finally it will be show duplication percentage level easy and effective manner. After that admin can decide whether need to accept or not based on this percentage.
+
+
+
+5. Sms channel integration:
+
+SMS channel module is the gateway for sending and receiving SMS. This enables the communication between student and admin. This module performs communication setting in order to send and receive SMS. 
+
+All messages which are sent by the students will be stored in SIM memory and that will be extracted and stored in to the database. Every message will be stored in memory with a unique index. This module is an object of type GSM Communication which is required for sending and receiving messages. This module helps to set the Communication port, Baud rate and time out for the Communication object of type GSM communication. 
+
+7. Sms based intimation 	
+
+For every process notifications and push messages are used. So this module integrates with SMS server to send the service messages. So that student will get conformation or rejection intimation through sms service. 
+
